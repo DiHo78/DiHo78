@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**DiHo78/DiHo78** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dirk, a Data Platform Engineer at Data Masterminds (part of Masterminds Group), based in Velbert, NRW, Germany.
 
-Here are some ideas to get you started:
+🛠️ My focus is SQL Server – especially performance tuning and troubleshooting. If a query is slow or a server misbehaves, I want to know why.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🤖 Lately I'm pretty much AI addicted and spend a lot of time experimenting with it.
+
+📖 Technical reviewer of **[Microsoft Azure für Dummies](https://www.amazon.de/Microsoft-Azure-Dummies-Frank-Geisler/dp/3527718354)** by Frank Geisler & Benjamin Kettner (Wiley-VCH, 2021)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-dirkhondong-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dirkhondong)
+[![Mastodon](https://img.shields.io/badge/Mastodon-@DirkHondong@nrw.social-6364FF?style=flat&logo=mastodon&logoColor=white)](https://nrw.social/@DirkHondong)
