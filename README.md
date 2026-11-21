@@ -6,7 +6,7 @@ I'm Dirk, a Data Platform Engineer at Data Masterminds (part of [Masterminds Gro
 
 🤖 Lately I'm pretty much AI addicted and spend a lot of time experimenting with it.
 
-📖 Technical reviewer of **[Microsoft Azure für Dummies](https://www.amazon.de/Microsoft-Azure-Dummies-Frank-Geisler/dp/3527718354)** by [Frank Geisler](https://github.com/Frank-Geisler) & Benjamin Kettner (Wiley-VCH, 2021)
+📖 Technical reviewer of **[Microsoft Azure für Dummies](https://www.amazon.de/Microsoft-Azure-Dummies-Frank-Geisler/dp/3527718354)**  (Wiley-VCH, 2021)
 
 ---
 
