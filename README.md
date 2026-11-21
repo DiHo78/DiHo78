@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-I'm Dirk, a Data Platform Engineer at Data Masterminds (part of Masterminds Group), based in Velbert, NRW, Germany.
+I'm Dirk, a Data Platform Engineer at Data Masterminds (part of [Masterminds Group](https://github.com/Data-Masterminds)), based in Velbert, NRW, Germany.
 
 🛠️ My focus is SQL Server – especially performance tuning and troubleshooting. If a query is slow or a server misbehaves, I want to know why.
 
 🤖 Lately I'm pretty much AI addicted and spend a lot of time experimenting with it.
 
-📖 Technical reviewer of **[Microsoft Azure für Dummies](https://www.amazon.de/Microsoft-Azure-Dummies-Frank-Geisler/dp/3527718354)** by Frank Geisler & Benjamin Kettner (Wiley-VCH, 2021)
+📖 Technical reviewer of **[Microsoft Azure für Dummies](https://www.amazon.de/Microsoft-Azure-Dummies-Frank-Geisler/dp/3527718354)** by [Frank Geisler](https://github.com/Frank-Geisler) & Benjamin Kettner (Wiley-VCH, 2021)
 
 ---
 
